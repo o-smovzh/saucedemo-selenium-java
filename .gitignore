@@ -1,0 +1,27 @@
+# Maven build output
+target/
+*.class
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+*.eclipse
+
+# Test reports
+test-output/
+surefire-reports/
+report.html
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# WebDriverManager cache
+.wdm/
+
+# Logs
+*.log
+logs/
